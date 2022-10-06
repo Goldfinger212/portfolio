@@ -1,0 +1,67 @@
+.c1
+{
+	background-color: lightblue;
+	margin-bottom: 5px;
+	text-align: center;
+	font-size: 30px;
+}
+.c2
+{
+	background-color: lightblue;
+	text-align: center;
+	
+}
+.c3
+{
+	background-color: lightblue;
+	clear: both;
+	text-align: center;
+	font-size: 30px;
+}
+.c4
+{
+	background-color: lightblue; 
+	margin-top: 0px;
+	text-align: center;
+}
+.c5
+{
+	background-color: lightblue; 
+	margin-top: 0px;
+	text-align: center;
+}
+.a2
+{
+	background-color: yellow;
+	font-color: blue;
+	float: left;
+	margin-right: 10px;
+	height: 500px;
+	width: 30%;
+	font-size: 30px;
+}
+.a3
+{
+	background-color: lightgreen;
+	font-color: blue;
+	float: left;
+	margin-right: 10px;
+	height: 500px;
+	width: 30%;
+	font-size: 30px;
+}
+.a4
+{
+	vertical-align: center;
+	float: left;
+	margin-right: 10px;
+	font-size: 30px;
+	height: 500px;
+	width: 30%;
+}
+div
+{
+	border: 2px solid blue;
+	border-radius: 8px;
+	text-align: justify;
+}

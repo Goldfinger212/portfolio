@@ -1,0 +1,35 @@
+body
+{
+	background-color: pink;
+}
+
+h1,h2
+{
+	color: blue;
+	font-family: verdana;
+	font-size: 1em;
+}
+
+div
+{
+	border: 2px solid blue;
+	border-radius: 8px;
+	padding: 1.5%;
+	text-align: justify;
+}
+
+p
+{
+	color: white;
+	font-family: arial;
+}
+
+.d1
+{
+	background-color: green;
+}
+
+.d2
+{
+	background-color: pink;
+}
