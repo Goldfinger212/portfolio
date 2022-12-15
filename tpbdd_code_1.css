@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(116, 101, 246);
+}
+a{
+    padding: 3rem;
+    background-color: blue;
+    border: 2px solid red;
+    border-radius: 26px;
+    color: white;
+    font-size: 2em;
+}
+a.hover{
+    background-color: yellowgreen;
+    color: black;
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+}
+.div2{
+    margin-top: 50px;
+}
